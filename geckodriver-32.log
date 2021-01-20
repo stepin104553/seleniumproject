@@ -1,0 +1,46 @@
+1610516765903	geckodriver	INFO	Listening on 127.0.0.1:56426
+1610516768924	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileE4uhEC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610516773088	Marionette	INFO	Listening on port 56453
+1610516773250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610516773334	Marionette	ERROR	[17] No reply from Marionette:Register
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://magento.com/ line 1551 > injectedScript, line 4: TypeError: window.optimizely is undefined
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+JavaScript error: https://fast.wistia.com/assets/external/E-v1.js, line 1: uncaught exception: error
+1610516786478	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://account.magento.com/customer/account/login?_ga=2.94158301.1918001288.1610516776-372231783.1610516776, line 407: SyntaxError: redeclaration of const ssoEmailDomains
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/jquery/jquery.validate.js, line 556: TypeError: $.validator.methods[method] is undefined
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/jquery/jquery.validate.js, line 556: TypeError: $.validator.methods[method] is undefined
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/jquery/jquery.validate.js, line 556: TypeError: $.validator.methods[method] is undefined
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/jquery/jquery.validate.js, line 556: TypeError: $.validator.methods[method] is undefined
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/jquery/jquery.validate.js, line 556: TypeError: $.validator.methods[method] is undefined
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Persistent/js/view/customer-data-mixin
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Customer/js/customer-data
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: Magento_Theme/js/theme
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: jquery/jquery.cookie
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: jquery/jquery-migrate
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: jquery-ui-modules/dialog
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: mage/tabs
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/static/version20210112162518/frontend/McStore/base/en_US/requirejs/require.js, line 166: Error: Script error for: loadicons/index
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://account.magento.com/customer/account/login/, line 407: SyntaxError: redeclaration of const ssoEmailDomains
+1610516951302	Marionette	INFO	Stopped listening on port 56453
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
