@@ -8,7 +8,11 @@ Tc1_valid
     Open Browser    https://phptravels.net/    browser=chrome
     Maximize Browser Window
     Set Selenium Implicit Wait    30s
-    #Click Element    link=USD    
+   # ${width}     ${height}     Get Window Size 
+   # Log To Console    ${width}    
+   # Log To Console    ${height}
+    #Set Window Size     500     700    
+        #Click Element    link=USD    
     #Click Element    link=INR     
     #Click Element    //a[@id='dropdownCurrency']
     #Click Element    //a[text()='INR']    

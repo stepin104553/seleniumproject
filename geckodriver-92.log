@@ -1,0 +1,9 @@
+1611135870166	geckodriver	INFO	Listening on 127.0.0.1:60658
+1611135873125	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofile21q5cL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611135878354	Marionette	INFO	Listening on port 60670
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611135878879	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611135878958	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1611137589893	Marionette	INFO	Stopped listening on port 60670
